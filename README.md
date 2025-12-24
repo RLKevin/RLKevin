@@ -1,5 +1,5 @@
-## Hey there! I'm Kevin 👋
-Welkom op mijn GitHub-profiel! Ik ben een enthousiaste ontwikkelaar met een passie voor het bouwen van innovatieve oplossingen en het verkennen van nieuwe technologieën. Hier deel ik mijn projecten, codevoorbeelden en samenwerkingen.
+## Ik ben Kevin 👋
+Welkom op mijn GitHub-profiel! Ik ben een enthousiaste ontwikkelaar met een passie voor het bouwen van innovatieve oplossingen en het verkennen van nieuwe technologieën. Hier deel ik mijn projecten en demo's die ik heb gemaakt in mijn vrije tijd.
 
 ### Over mij:
 Ik ben ‘s avonds vaak te vinden in mijn thuiskantoor. Hier houd ik me bezig met onder andere 3D printen en het onderhouden van een paar persoonlijke servers. Ik hou van [live muziek](https://www.concertarchives.org/rlkevin), [gamen](https://steamcommunity.com/id/djolfie) en [lezen](https://www.goodreads.com/user/show/186361901-kevin).
